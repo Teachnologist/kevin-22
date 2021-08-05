@@ -12,10 +12,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "concurrently": "^5.1.0"
-  },
+  "devDependencies": {},
   "dependencies": {
+    "concurrently": "^5.1.0",
     "graphql": "^15.5.1"
   }
 }
